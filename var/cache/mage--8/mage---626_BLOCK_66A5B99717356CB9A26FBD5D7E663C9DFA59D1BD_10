@@ -1,0 +1,30 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1621338300;s:6:"expire";i:1621341900;s:4:"tags";s:46:"626_BLOCK_HTML,626_CAT_P_10,626_CAT_P,626_MAGE";}
+a:2:{s:8:"policies";a:1:{i:0;a:3:{s:2:"id";s:10:"script-src";s:5:"hosts";a:0:{}s:6:"hashes";a:6:{s:44:"Vum4/ulbvtT+JBA7XS0P+NrEcGlcNgsCmlcwbRGcfss=";s:6:"sha256";s:44:"48sb4Je7XoTlJimO7pm/+fwXo5BBI6oU4Vci+QqK2/I=";s:6:"sha256";s:44:"HUjaEs6gPI/8f06cL8Wy1zR3vaPjSDAYb+YL5IRBsf4=";s:6:"sha256";s:44:"9N89WMndeXJQQmez3zcXupuWhb0jRtPuHYgRtBa1Cjo=";s:6:"sha256";s:44:"Z1lc06sB3tyV/qpfg7WPzcuIIBVCF5F+K5T2X47gpHA=";s:6:"sha256";s:44:"U6mEMikYUGLCgUUs2n06l7QnjfZrlEM6mnGMUFLouvo=";s:6:"sha256";}}}s:4:"html";s:3399:"
+            <div class="field configurable required">
+            <label class="label" for="attribute137">
+                <span>Màu sắc</span>
+            </label>
+            <div class="control">
+                <select name="super_attribute[137]"
+                        data-selector="super_attribute[137]"
+                        data-validate="{required:true}"
+                        id="attribute137"
+                        class="super-attribute-select">
+                    <option value="">Choose an Option...</option>
+                </select>
+            </div>
+        </div>
+        <script type="text/x-magento-init">
+        {
+            "#product_addtocart_form": {
+                "configurable": {
+                    "spConfig": {"attributes":{"137":{"id":"137","code":"mau_s_c","label":"M\u00e0u s\u1eafc","options":[{"id":"4","label":"N\u00e2u","products":["7"]},{"id":"5","label":"Tr\u1eafng","products":["12"]},{"id":"7","label":"\u0110en","products":["11"]}],"position":"0"}},"template":"<%- data.price %>\u00a0\u20ab","currencyFormat":"%s\u00a0\u20ab","optionPrices":{"7":{"baseOldPrice":{"amount":1251000},"oldPrice":{"amount":1251000},"basePrice":{"amount":1251000},"finalPrice":{"amount":1251000},"tierPrices":[],"msrpPrice":{"amount":0}},"11":{"baseOldPrice":{"amount":1251000},"oldPrice":{"amount":1251000},"basePrice":{"amount":1251000},"finalPrice":{"amount":1251000},"tierPrices":[],"msrpPrice":{"amount":0}},"12":{"baseOldPrice":{"amount":1251000},"oldPrice":{"amount":1251000},"basePrice":{"amount":1251000},"finalPrice":{"amount":1251000},"tierPrices":[],"msrpPrice":{"amount":0}}},"priceFormat":{"pattern":"%s\u00a0\u20ab","precision":0,"requiredPrecision":0,"decimalSymbol":",","groupSymbol":".","groupLength":3,"integerRequired":true},"prices":{"baseOldPrice":{"amount":1251000},"oldPrice":{"amount":1251000},"basePrice":{"amount":1251000},"finalPrice":{"amount":1251000}},"productId":"10","chooseText":"Choose an Option...","images":{"7":[{"thumb":"http:\/\/localhost\/media\/catalog\/product\/cache\/9bd8b9028f688f83a90367290cd29ae4\/s\/h\/shutterstock-1508877227-1601456721_2.jpg","img":"http:\/\/localhost\/media\/catalog\/product\/cache\/6e7aba6aa9331dcade46a874825bd3ab\/s\/h\/shutterstock-1508877227-1601456721_2.jpg","full":"http:\/\/localhost\/media\/catalog\/product\/cache\/96bc0a782530ae4e3a12160cafee220d\/s\/h\/shutterstock-1508877227-1601456721_2.jpg","caption":null,"position":"1","isMain":true,"type":"image","videoUrl":null}],"11":[{"thumb":"http:\/\/localhost\/media\/catalog\/product\/cache\/9bd8b9028f688f83a90367290cd29ae4\/m\/g\/mg-1958jpgfd-1592027853_1_1.jpg","img":"http:\/\/localhost\/media\/catalog\/product\/cache\/6e7aba6aa9331dcade46a874825bd3ab\/m\/g\/mg-1958jpgfd-1592027853_1_1.jpg","full":"http:\/\/localhost\/media\/catalog\/product\/cache\/96bc0a782530ae4e3a12160cafee220d\/m\/g\/mg-1958jpgfd-1592027853_1_1.jpg","caption":null,"position":"1","isMain":true,"type":"image","videoUrl":null}]},"index":{"7":{"137":"4"},"11":{"137":"7"},"12":{"137":"5"}},"channel":"website","salesChannelCode":"base","sku":{"7":"280010036614-N\u00e2u","11":"280010036614-\u0110en","12":"280010036614-Tr\u1eafng"}},
+                    "gallerySwitchStrategy": "prepend"
+                }
+            },
+            "*" : {
+                "Magento_ConfigurableProduct/js/catalog-add-to-cart": {}
+            }
+        }
+    </script>
+";}
